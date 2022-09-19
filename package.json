@@ -1,0 +1,14 @@
+{
+  "name": "awsecsecrdocker",
+  "version": "1.0.0",
+  "description": "demo application for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avikal Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
